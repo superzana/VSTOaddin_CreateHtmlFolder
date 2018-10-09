@@ -1,0 +1,1 @@
+# VSTOaddin_CreateHtmlFolder
